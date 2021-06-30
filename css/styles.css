@@ -7,7 +7,7 @@ body {
 }
 
 #home-quote {
-    background: url('img/img2.jpg') center center;
+    background: url('../img/img2.jpg') center center;
     background-size: cover;
 }
 
